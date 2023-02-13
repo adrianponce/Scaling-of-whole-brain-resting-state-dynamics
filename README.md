@@ -1,6 +1,6 @@
 # Scaling-of-whole-brain-resting-state-dynamics
 
--PRG_function:
+- PRG_function.m:
 
 This function implements the Phenomenological Renormalization Group
 (PRG) method, introduced by Meshulam et al. (2018, 2019). It also can
