@@ -24,3 +24,7 @@ Meshulam, L., Gauthier, J.L., Brody, C.D., Tank, D.W. & Bialek, W.
 Coarse-graining and hints of scaling in a population of 1000+ neurons. 
 arXiv, 1812.11904 (2018).
 
+- metropolis_spin_model.m
+
+Simulates the spin model using the Metropolis algorithm 
+and applies the PRG method to the model's activity.
