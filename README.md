@@ -28,3 +28,7 @@ arXiv, 1812.11904 (2018).
 
 Simulates the spin model using the Metropolis algorithm 
 and applies the PRG method to the model's activity.
+
+- Connectivity_matrices.mat
+
+Contains connectivity and distances matrices
